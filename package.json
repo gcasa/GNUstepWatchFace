@@ -1,0 +1,24 @@
+{
+    "author": "greg.casamento@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "gnustepwatch",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "GNUstepWatch",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "65f55b1b-0d81-47f7-bf2e-69429f9e7c64",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
