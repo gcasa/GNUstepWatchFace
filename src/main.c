@@ -1,3 +1,8 @@
+//
+// GNUstep Watch Face code...
+// Gregory Casamento <greg.casamento@gmail.com>
+//
+
 #include <pebble.h>
 
 Window *my_window;
